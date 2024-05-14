@@ -1,5 +1,5 @@
 {
-    "name": "maxbanton/cwh",
+    "name": "forward-force/cwh",
     "homepage": "https://github.com/maxbanton/cwh",
     "type": "library",
     "description": "AWS CloudWatch Handler for Monolog library",
